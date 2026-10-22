@@ -1,1 +1,1 @@
-https://github.com/YEMEHUB/namju/new/main?filename=README.md
+https://yemehub.github.io/webapps_1/01/
